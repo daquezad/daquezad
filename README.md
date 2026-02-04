@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm David Quezada 👋
 
-<!--
-**daquezad/daquezad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 Agentic Engineering | 🌐 Network Automation | ⚙️ AIOps | 💪 Gym Enthusiast  
+Python • NSO • LangChain • LangGraph • OpenAI • Docker
 
-Here are some ideas to get you started:
+At Cisco, I help Service Providers adopt **Network Services Orchestrator (NSO)** and automation platforms to simplify complex operations.  
+Now, I focus on **Agentic AI** — building autonomous systems that think, plan, and execute workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Less manual work. More intelligent systems.
+
+---
+
+### 🚀 Exploring
+Agentic AI for NetOps & AIOps | LangChain & LangGraph agents | LLM-powered assistants | Network orchestration & automation
