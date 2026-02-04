@@ -13,4 +13,5 @@ Less manual work. More intelligent systems.
 ### 🚀 Exploring
 Agentic AI for NetOps & AIOps | LangChain & LangGraph agents | LLM-powered assistants | Network orchestration & automation
 ---
-## 📫 Connect - LinkedIn: (https://www.linkedin.com/in/david-quezada-r/)
+- 🔗 LinkedIn: [David Quezada](https://www.linkedin.com/in/david-quezada-r/)
+
